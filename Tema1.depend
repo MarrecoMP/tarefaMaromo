@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1654887906 source:c:\users\marre\desktop\tema1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"produto.h"
+
+1654887853 c:\users\marre\desktop\tema1\produto.h
+
